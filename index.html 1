@@ -19,13 +19,13 @@
 
     <div class="main">
       <div class="copy-container">
-        <h1>Welcome Milky Shope<span>.</span></h1>
+        <h2><marquee>Welcome Milky Shope<span>.</span></marquee></h2>
         <h2>Olahan Susu Segar</h2>
       </div>
       
       <div class="contents">
-        <h3 class="section-title">Struktur</h3>
-        <div class="contents-item">
+      
+         <div class="contents-item">
           <img src="https://images.app.goo.gl/6a6Y63FtKHQFkgHn7">
           <p>Produk</p>
         </div>
@@ -57,7 +57,7 @@
         <!-- Tambahkan tag <textarea> --> 
         <textarea></textarea>
         
-        <p>*Nama Kucing</p>
+        <p>*Required fieleds must be filled</p>
         <!-- Tambahkan tag <input> -->
         <input class="contact-submit" type="submit" value="Kirim">
         
